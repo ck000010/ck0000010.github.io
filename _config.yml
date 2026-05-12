@@ -1,0 +1,31 @@
+# 网站基本信息
+title: 山西泽明环保科技有限公司
+subtitle: 太原不锈钢加工实力厂家 | 激光切割 | 数控折弯 | 非标定制
+description: 山西泽明深耕不锈钢加工20余年，拥有30000W激光切割机、1000吨数控折弯机，承接不锈钢天沟、预埋件、非标设备定制，大小单都接，当天可交货。
+author: 山西泽明环保科技有限公司
+email: 375354368@qq.com
+url: "https://ck0000010.github.io" # 你的博客地址
+baseurl: "" # 保持空着
+
+# 网站语言
+lang: zh-CN
+
+# 主题设置（用默认的minima主题，稳定好用）
+theme: minima
+
+# 导航栏菜单（显示在博客顶部）
+header_pages:
+  - index.md
+  - about.md
+  - services.md
+  - contact.md
+
+# 文章设置
+permalink: /:year/:month/:day/:title.html # 文章链接格式
+paginate: 10 # 每页显示10篇文章
+
+# 社交媒体链接（显示在博客底部）
+social:
+  links:
+    - https://www.zebxg.com # 你的官网
+    - https://github.com/ck0000010
